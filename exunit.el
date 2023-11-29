@@ -47,7 +47,7 @@
   :argument "--exclude=")
 
 (transient-define-prefix exunit-transient ()
-  "ExUnit"
+  "ExUnit!"
   ["Arguments"
    [("-f" "Failed" "--failed")
     ("-s" "Stale" "--stale")
